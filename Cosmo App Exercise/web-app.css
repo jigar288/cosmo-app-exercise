@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #FAFAFA;
+}
+
+img {
+ width: auto;
+ height: auto;
+
+}
+
+
+ul {
+  list-style-position: inside;
+
+}
+
+.dog {
+  border-width: 10px;
+  border-color: white;
+  border-style: solid;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+
+}
+.mdl-layout__drawer-button {
+  margin: 20px 12px;
+}
